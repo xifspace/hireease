@@ -1,8 +1,8 @@
 package com.pradeep.joblisting.controller;
 
-import com.telusko.joblisting.repository.PostRepository;
-import com.telusko.joblisting.model.Post;
-import com.telusko.joblisting.repository.SearchRepository;
+import com.pradeep.joblisting.repository.PostRepository;
+import com.pradeep.joblisting.model.Post;
+import com.pradeep.joblisting.repository.SearchRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import springfox.documentation.annotations.ApiIgnore;
